@@ -69,7 +69,6 @@ This is a fairly simple option that doesn't need too much explanation. If you un
 If you don't like newer versions of Windows, or Linux distros, or Mac, you need to be on the Internet, and you don't want to be insecure, then the only option left is to stop using traditional computers entirely. For a lot of people, this is an unacceptable option, but many people can get away with living in the modern world only using phones and tablets, so it's worth mentioning.
 
 Also, Chromebooks are great if you don't need to do anything on your computer except for browsing the web.
-How to stay secure on any system
 
 ## Other security tips
 No matter what option you choose, there are plenty of ways to stay secure online.
